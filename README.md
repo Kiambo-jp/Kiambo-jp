@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. Check out some of my works in the links below. 👋
 
 <!--
 **Kiambo-jp/Kiambo-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
